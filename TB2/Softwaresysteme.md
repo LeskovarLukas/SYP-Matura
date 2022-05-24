@@ -236,3 +236,68 @@ Praktiken:
   - Infrastruktutätigkeiten mittels Scripts lösen
 - Starke Kohesion = 1 Klasse hat genau 1 Aufgabe
 - Loose Coupling = minimale Bindung zwischen Klassen
+
+
+
+### Kanban
+- kommt aus der Automobilbranche
+- Verschwendung vermeidung
+- Just-In-Time Konzept 
+  - nur Produzieren wenn Abnehmer etwas brauchen
+  - Puffer dazwischen
+  - Spart Lagerkosten
+  - kein Überschuss
+
+Vorgehen in Softwareprojekten:
+
+- Kanban-/Taskboard spiegelt Schritte von SDLC wider (Next, Analysis, Development, Acceptance, Production)
+- Jede Phase hat eine bestimmte Zahl = Work in Progress Limit (Wieviele User-Stories dürfen gleichzeitig in einer Phase sein)
+- In jeder Phase werden User-Stories erledigt und danach in Done geschoben
+
+
+
+
+# 2. IST-Erhebung
+
+- Wie wird der aktuelle Systemzustand erfasst?
+- Parallelen zur Anforderungsanalyse
+
+## Interview
+- man redet mit Verantwortlichem 
+- bereitet Fragen vor (Standardisiert = Fragenkatalog; Nicht-Standardisiert = abweichend)
+- weich/hart Interview (abhängig von Erst der Lage)
+- offene/geschlossen Fragen 
+- qualitative Informationen 
+  - im Detail 
+  - Nachfragen 
+- wie sieht System genau aus?
+- wie stellt sich Interviewpartner Verbesserungen vor?
+- Auswertung ist Aufwendig und nur bei relativ wenigen Personen möglich => Dafür detailierte Informationen erfassbar
+
+## Fragebogen
+- bei einer größeren Zielgruppe
+- eher standardisierte/erprobte Fragebögen verwenden
+- Test bei einer kleineren Gruppe (Verständniss & Auswertbarkeit prüfen)
+
+
+## Beobachtung
+- Mitarbeiter zuschauen
+- wichtige Informationen protokollieren
+- passiv/aktiv (aktiv = Fragen stellen)
+- aufwendig
+  
+## Selbstaufschreibung
+- mittels Protokoll seitens Mitarbeiter
+- ungenau
+- erfordert Eigenverantwortung & wahrheitsgemäße Erfassung
+
+## Dokumentenauswertung
+- bestehende Unterlagen untersuchen
+- Problem bei Alter/Genauigkeit von Dokumenten
+
+## CRC - Karten
+- Class Responsibility Collaboration
+- Klassenmodell basierend auf Anwendungsfällen
+- Class = Hauptwörter
+- Responsibility = wer ist Verantwortlich
+- Collaboration = wer ist involviert
