@@ -39,6 +39,8 @@ Gute Planung führt zu geringeren Betriebs- & Wartungskosten
 ## Phasenmodelle
 Entwicklung verläuft sequentiell & schrittweise
 
+Traditionelle Modelle
+
 Beispiele:
 - Wasserfallmodell
 - Spiralmodell
@@ -138,4 +140,99 @@ Phasen:
 
 ## Agile Modelle
 - Anforderungen sind veränderlich (daher sind Kosten schwer einschätzbar)
-- 
+- Wenn Phasen strikt eingehalten werden passt finales Produkt nicht
+- flexiblere Planung
+
+Agiles Manifesto
+
+- enthält wichtige Grundsätze für agile Vorgehensmodelle
+- **Individuals and interactions** over processes and tools
+  - Selbstverantwortung & Motivation 
+  - Zusammenarbeit
+- **Working software** over comprehensive documentations
+  - Erfolg an Produkt messen und nicht an dokumentation
+- **Responding to change** over following a plan
+  - Anforderungsänderungen berücksichtigen & willkommen heißen
+- **Customer collaboration** over contract negotiation 
+
+
+### SCRUM
+
+Rollen:
+- Product Owner 
+  - definiert User-Stories (Anforderungen mit Akzeptanzkriterien) & filtert wichtigste heraus
+  - verwaltet Product Backlog (enthält User-Stories)
+- Team
+  - setzt Anforderungen um
+  - umsetzung in Sprints (enthält nun unveränderliche User-Stories die umgesetzt werden)
+  - arbeitet autonom und selbstorganisiert
+- Scrum Master
+  - hilft die Umsetzung des Modells
+
+
+Sprints:
+- Aufwandsschätzung vor Sprint mithilfe von **Planning Poker**
+- Sprints dauern 2-4 Wochen
+- am Ende ein Potentially Releasable Product
+- Daily Scrum Meetings (welche Tasks gestern erledigt worden sind & was wird heute erledigt)
+- Sprint Review & Retrospective Meetings
+
+
+User-Story:
+
+- verfolgt Muster "Als Kunde will ich folgenden Nutzen erreichen"
+
+Anforderungen:
+
+- sollten INVEST Kriterien erfüllen
+  - Independent
+  - Negotiable
+  - Valuable
+  - Estimatable
+  - Small
+  - Testable
+- erst umsetzbar wenn Definition of Ready erfüllt ist
+- fertig erst wenn Definition of Done erfüllt ist
+
+Controlling mittels Burndown Chart:
+
+- darstellung des Arbeitsfortschritts
+- wenn User-Story fertig ist verringert sich der Wert der verbleibenden Story-Points
+- man nähert sich idealem Burndown an 
+
+
+### FDD - Feature Driven Development
+
+Besteht aus 5 Stufen:
+- Startup:
+  - wie Inception & Ellaboration
+  - Überblick 
+  - Anforderungen
+  - Wirtschaftlichkeit
+  - Mögliches Modell
+- Build A Feature List
+- Plan by Feature
+- Design by Feature
+  - Design Package
+- Build by Feature
+  - Umsetzung & Testen 
+
+
+
+### Extreme Programming
+- ähnlich wie SCRUM
+- versucht Änderungskosten gering zu halten
+- Fokus auf Engineering Practices & ist sehr Praxisorientiert
+
+**YAGNI Prinzip** = Klasse wird so implementiert, dass nur der Test erfüllt wird (You Aint Gonna Need It)
+
+Praktiken:
+
+- Test-Driven Development
+- Pair Programming
+- Refactoring
+- Continous Integration/Delivery 
+  - unterstützt Testen & Builds
+  - Infrastruktutätigkeiten mittels Scripts lösen
+- Starke Kohesion = 1 Klasse hat genau 1 Aufgabe
+- Loose Coupling = minimale Bindung zwischen Klassen
