@@ -10,6 +10,7 @@ Software Development Life Cycle
 Gute Planung führt zu geringeren Betriebs- & Wartungskosten
 
 **Was**
+
 1. Idee & Projektanstoß
 2. IST-Erhebung
    - was gibts bereits?
@@ -18,6 +19,7 @@ Gute Planung führt zu geringeren Betriebs- & Wartungskosten
    - **funktionale** (was soll SW können?) & **nicht-funktionale** (Performance, Sicherheit, ...)
 
 **Wie**
+
 4. System & Kompnentenentwurf 
    - Systemarchitektur 
    - technische Spezifikation
@@ -25,6 +27,7 @@ Gute Planung führt zu geringeren Betriebs- & Wartungskosten
    - ...
 
 **Implementierung**
+
 5. Impelentierung
 6. Komponententests
 7. Integrations & Systemtests
@@ -63,6 +66,7 @@ Beispiele:
 - Es wird in Zyklen gedacht
 
 Schritte:
+
 1. Ziele definieren für nächsten Zyklus
 2. Risikoanalyse & Prototyping
 3. Durchführung und Evaluation
@@ -80,10 +84,12 @@ Schritte:
 - Fokus auf Qualitätssicherung
 
 **linke Seite**
+
 - Etappen des SDLC
 - vor Durchführung Tests ausdenken & Implementierung Evaluieren
 
 **rechte Seite**
+
 - Tests für jew. Entwicklungsschritte
 - auf technischer Ebene = funktioniert System überhaupt?
 - auf benutzer Ebene = Bieter das System dem Nutzer den gewünschten Nutzen 
@@ -114,6 +120,7 @@ Schritte:
 - Late Design Breakage ist sehr unwahrscheinlich 
 
 Phasen:
+
 1. Inception
    - Anforderungen identifizieren
    - Wirtschaftlichkeit
@@ -143,7 +150,7 @@ Phasen:
 - Wenn Phasen strikt eingehalten werden passt finales Produkt nicht
 - flexiblere Planung
 
-Agiles Manifesto
+Agiles Manifesto:
 
 - enthält wichtige Grundsätze für agile Vorgehensmodelle
 - **Individuals and interactions** over processes and tools
@@ -159,6 +166,7 @@ Agiles Manifesto
 ### SCRUM
 
 Rollen:
+
 - Product Owner 
   - definiert User-Stories (Anforderungen mit Akzeptanzkriterien) & filtert wichtigste heraus
   - verwaltet Product Backlog (enthält User-Stories)
@@ -171,6 +179,7 @@ Rollen:
 
 
 Sprints:
+
 - Aufwandsschätzung vor Sprint mithilfe von **Planning Poker**
 - Sprints dauern 2-4 Wochen
 - am Ende ein Potentially Releasable Product
@@ -204,6 +213,7 @@ Controlling mittels Burndown Chart:
 ### FDD - Feature Driven Development
 
 Besteht aus 5 Stufen:
+
 - Startup:
   - wie Inception & Ellaboration
   - Überblick 
@@ -301,3 +311,233 @@ Vorgehen in Softwareprojekten:
 - Class = Hauptwörter
 - Responsibility = wer ist Verantwortlich
 - Collaboration = wer ist involviert
+
+
+
+# 3. Aufwandsschätzung
+
+
+# 4. Geschäftsprozessmodellierung
+
+GP = ist ein Ablauf 
+
+In einem Unternehmen gibt es:
+
+- Ablauforganisation (Prozesse)
+- Aufbauorganisation (Aufgaben, Verantwortlichkeiten, Stellen, ...)
+
+Prozesse:
+
+- Aufgaben (haben unter einander Verbindungen/Abhängigkeiten)
+- Wer Verantwortlich
+- Ressourcen
+- Output
+- haben ein betriebswirtschaftl Ziel
+
+Modellierung:
+
+- Prozesse abbilden
+- Prozesse im Rahmen von PDCA verbessern
+- auch Abteilungsübergreifend (siehe Prozessorientierung)
+
+Probleme von Prozessen:
+
+- zu lange Dauer
+- zu hohe Kosten
+- zu viele Fehler
+- **Verbesserung durch Modellierung**
+
+Prozessorientierung:
+
+- Zusammenarbeit zwischen Abteilungen verbessern
+- Prozesse in den Mittelpunkt
+- Mehr abteilungsübergreifende Arbeit => hohes Maß an Verantwortung/Team-Skills
+- Qualitätsverbesserung
+
+
+Bestandteile:
+
+- Ereignisse = Zustand in einem System
+  - Prozess verläuft von Zustand zu Zustand
+  - ZUstand wird mit Daten repräsentiert => Daten werden verändert
+
+  
+## EEPK
+Bestandteile:
+
+- Funktionen (abgerundete Rechtecke) => aktiv benannt & enthalten verben
+- Ereignisse (Sechsecke) => passiv benannt
+- Informationsobjekte (Rechtecke)
+- Organisationseinheit (Ovale)
+- Kontrollflüsse (Pfeile)
+  - Verzweigungen (AND; OR; XOR)
+- Prozesswegweiser  
+  - Enthalten einen Prozessteile
+  - zur Wiederverwendung
+- Schleifen
+  - XOR verknüpfung bei zurück kommen
+  - irgendwo Abbruchbedingung
+- Wartesituationen
+  - warten in Funktion oder Ereignis AND verknüpfen
+
+Regeln:
+
+- GP muss mit Ereignis beginnen/enden
+- Abwechselnd Funktion & Ereignis
+- Ereigisse können keine Entscheidungen treffen (nur AND nach Ereignis)
+
+
+## BPMN
+Business Process Model and Notation
+
+- Standard der Object Management Group 
+- Tripple Ground Standard (CMN, DMN)
+
+Bestandteile:
+
+- Aufgaben
+- Ereignisse 
+  - Startereignis (Einfache Linie) 
+    - eingetretene (nicht ausgefülltes Symbol) = warten auf ereignis
+  - Zwischenereignis (Doppel Linie) 
+    - können auch an Aufgaben angehefter sein (unterbrechen/nicht-unterbrechend)
+      - unterbrechend (durchgezogene Linie)= Token wandert Pfad von Ereignis weiter
+      - nicht-unterbrechend (strichlierte Linie) = neues Token
+    - Nachrichtenereignis = löst Nachricht aus (asynchron)
+    - Zeitereignis = löst aus wenn bestimmter Zeitpunkt erreicht wurde
+    - Links = GP auf mehreren Seiten aufteilen
+  - Endereignis (Dicke Linie) 
+    - aufgerufene (ausgefülltes Symbol)= man wartet nicht
+    - Terminierungsendereignis = ganzer GP ist vorbei
+  - Symbol bestimmt Art des Ereignis (sonst Blanko)
+  - Terminierungsereignisse   
+    - zerstören Tokens
+- Gateways
+  - X = XOR
+    - wird nicht warten
+    - wird nicht aufteilen
+  - O = OR  (parallelisierend)
+  - `+` = And (zwingend parallelisierend)
+  - **parallelisierend** = erschaffen mehrere Ablauftokens, Teilen GP auf (split/join
+  - **synchronisierend** = es wird auf Tokens gewartet
+- Standardfluss
+  - wenn mehrere Bedingungen nicht erfüllt wird dieser Ausgeführt
+- Pool = Prozess
+  - enthält mehrere Lanes
+- Lanes = Organisationseinheit
+  - kann Sublanes enthalten
+  - keine überlappungen von Prozessen
+- Sequenzflüsse
+  - nur innerhalb eines Pools
+- Nachrichtenfluss
+  - Signal zwischen Pools
+  - führen in eingetretene Nachrichtenereignisse / Aufgaben / ...
+- Tokens 
+  - stellen den aktuellen Zustand/Punkt im GP dar
+  - wenn alle Tokens Ende erreicht haben ist GP vorbei
+- Kompensationsaufgaben
+    - können zurückgerollt werden
+    - auslösen mit angehefteten eriegnis
+- Aufgabensymbole
+  - Schleifen
+  - Mehrfachinstanzierung
+  - Plus = enthält Teilprozess (wie Prozesswegweiser)
+
+
+## UML Aktivitätsdiagramm
+- Veraltensdiagramm
+- Modelliert Abläufe in Systemen
+
+Bestandteile:
+
+- Rahmen = Aktivität = Prozess
+- Parititons = Swim Lane = Organisationseinheit
+- Aktion
+  - Accept Event Actions
+    - auf Ereignis warten
+    - Triggert weiteren Prozess
+  - Send Event Action
+    - löst Nachricht/Event aus 
+    - geht aber direkt & ohne Verzögerung weiter
+- Knoten
+  - Entscheidungsknoten = XOR
+  - Fork = AND Split
+  - Join = AND Synchronisation
+  - 
+- Ereignis
+  - Startereignis (Einfacher Durchgezogener Kreis)
+  - Endereignis (Einfacher kreis mit punkt in der Mitte)
+- Interruptable Activity Region
+  - alles innerhalb kann abgrebrochen werden
+  - Exception (gezakter Pfeil) führt zu reagierender Funktion
+
+
+
+# 5. UML Use-Case Diagramme
+- beschreiben Anwendungsfälle
+- aus Sicht des Anwenders
+- gemeinsam mit Anwender
+- Ziel ist universelle Verständlichkeit
+- für Anforderungserhebung
+  - führt zu techn. Systementwurf
+  - unterstützt Abnahmetests (erfüllt Sysstem Erwartungen)
+
+Ein **Use-Case** ist:
+
+- eine Sequenz von Transaktionen (Einzelschritte)
+- Transaktion selbst hat keinen Nutzen
+- Aber Use-Case sollte immer Nutzen bringen
+- immer Teil eines Systems
+- immer in Verbindung mit Akteuren
+
+**Akteure** (Strichmännchen):
+
+- Ist eine Rolle, keine konkrete Person
+- immer außerhalb von Systemgrenzen
+- können menschlich sein oder andere Systeme repräsentieren
+- benutzen System oder werden von System benutzt
+- Linie bedeutet Verbindung/Beziehung mit Use-Case
+  - Binär (zwei Beteiligte Use-Case & Akteur)
+  - Kardinalitäten möglich (auf Seite des Akteuers => mehrere Akteure führen Use-Case aus)
+- auch als Rechteck mit Stereotype "Actor" möglich
+
+
+**Beziehungen** zwischen Use-Cases:
+
+- Interaktion mit Akteur
+  - es wird der jew. Akteur benötigt um Use-Case auszuführen
+- include
+  - von A zu B = A inkludiert B
+  - wenn A ausgeführt wird muss B ausgeführt werden
+- extends 
+  - von B zu A = B erweitert A
+  - A kann von B erweitert werden
+  - optionale Erweiterung
+  - Erweiterung kann Bedingt werden (Bedingung = Strichlierte Linie mit Notiz ODER Extention Point)
+- Generalisierung
+  - von B zu A (Spezialisierung)
+  - von A zu B (Generalisierung)
+  - auch zwischen Akteuern
+  - B erbt Funktionalität von A und ergänzt diese
+  - abstract = Use-Case kann nicht instanziert werden
+  - Beziehung zu Akteueren wird weitervererbt
+  - ODER Beziehung von Akteueren kann mit Generalisierung dargestellt werden 
+
+
+**Identifikation** von Akteuren
+
+- Gespräch mit Anwender
+- wichtige Personen finden/analysieren
+
+Anwendungsfallbeschreibung
+
+- in Textdokument
+- Trigger
+  - Ereignisse
+- Reihenfolge von Transaktionen 
+
+Einsatz von Use-Cases
+
+- bei RUP
+- bei SCRUM
+- werden über jede Iteration immer kürzer & konkreter
