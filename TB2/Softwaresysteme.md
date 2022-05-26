@@ -314,7 +314,121 @@ Vorgehen in Softwareprojekten:
 
 
 
-# 3. Aufwandsschätzung
+# 3.  Aufwandsschätzung
+Der Auftraggeber will wissen: Wieviel Kostet es & wie lange dauert es
+
+möglichst genaue Aufwandsschätzung benötigt wissen über:
+
+* Umfang
+    * Lines-of-Code metrik
+* Komplexität
+    * zyklomatische Komplexität(Anzahl an Verzweigungen(if, case, loops))
+* Qualität
+    * Benutzerfreundlichkeit
+    * Wartungsfreundlichkeit
+* Projektdauer
+* Produktivität
+    * Welche Mitarbeiter sind zur verfügung, rechtliche Rahmenbedingungen, ...
+
+Aufwandsschätzung bilded grundlage für:
+
+* Kostenplanung
+* Zeitplanung
+
+Aufwand in **Personenmonaten** = Anzahl an Stunden die ein Mitarbeiter in einem Monat arbeitet)
+
+### optimale Mitarbeiteranzahl nach Brook (Brooks Law)
+$MA_{Anzahl} = \sqrt{errechneterAufwandInPM}$
+
+### Teufelsquadrat
+Dimensionen:
+
+* Qualitätc
+* Quantität
+* Projektdauer
+* Kosten
+
+Ändere ich eine Dimesion wirkt es sich auf die Anderen aus
+
+### Methoden
+* Expertenschätzungen
+* Delphi-Methode
+* Berechnungsverfahren (beruhen auf Erfahrung)
+    * Analogiemethode (man Teile von Projekten die ähnlich sind)
+    * Relationsmehtode (jeder Teil des Projekts bekommt einen Indexwert - Java 0.7, C 0.9)
+        * Indexwerte ergeben sich durch frühere Projekte
+    * Multiplikatormethode
+    * Prozentsatzmethode (Phasen aus früheren Projekten werden herangezogen)
+        * Nach einer Phase des neuen Projekts wird die dauer auf alt-Projekte projiziert
+
+## Weitere Verfahren
+
+### Function-Point-Analyse
+5 Schritte:
+
+1. Kategorisieren
+2. Klassifizieren
+3. Analyse der Einflussfaktoren
+4. Berechnung der Function Points
+5. Mapping auf Personenmonate
+
+### Kategorisieren
+**Elementarprozess** -> eine Art Use-Case (z.B. Erfassung Kundenadresse)
+Datenbestände
+
+* intern -> tabelle in DB
+* extern -> 
+  * Eingaben -> (Write) z.B. Neuen User anlegen
+  * Ausgaben -> (Read/Write)
+  * Abfragen -> (Read) z.B. Tabelle ausgeben
+
+### Klassifizieren
+ist der Datenbestand einfach oder komplex?
+z.B. wieviele Spalten hat eine Tabelle, wieviele foreign keys,...?
+
+Eingabe einfach oder komplex? 
+z.B. braucht man Eingabeprüfung, wieviele Kundendaten gibt es (Email, adresse,...)
+
+Klassifizierung liefert **unajusted Function Points**
+
+### Einflussfaktoren EF
+1. Verflechtung mit anderen DV-Systemen (0-5 Punkte)
+2. Dezentrale Verwaltung (0-5 Punkte)
+3. ...
+
+Die bewertung der **Einflussfaktoren** verändern bis zu 30% die unajusted Function Points
+
+### Berechnung
+$AFP = \sum{UFP} * (0.7 * \sum{EF} * 0.01)$
+
+Daraus entstehen **ajusted Function Points**
+
+### Mapping
+Aus Erfahrungswerten die AFP auf Personenmonate umrechnen
+
+### Use-Case Points verfahren
+enstanden aus Function-Point-Analyse, weil FPA aus den 70er -> 70er keine Objektorientierte Programmierung
+
+6 Schritte:
+
+1. Ermittlung **Unajusted Actor Weight**
+    * Aufwand der entsteht wenn Maschienen, Benutzer,... mit meinem System interagiert
+2. Ermittlung **Unajusted Use-Case Weight**
+    * aus wievielen Schritten besteht ein Use-Case
+3. Ermittlung des **Technical Complexity Factor**
+    * Nebenläufigkeit
+    * Wiederverwendbarkeit
+    * Verteiltessystem
+4. Ermittlung **Environment Factor**
+    * Motivation
+    * Vollzeit/Teilzeit
+    * Anforderungen stabil/fragil
+5. Ermittlung **adjusted Use-Case-Points**
+    * tolle Formel
+6. Ermittlung **Aufwand** in Personenstunden
+
+ 
+
 
 
 # 4. Geschäftsprozessmodellierung
