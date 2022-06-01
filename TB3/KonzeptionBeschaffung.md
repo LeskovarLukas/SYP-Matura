@@ -330,3 +330,419 @@ KW umgerechnet auf gleichmäßig hohe Erträge
 Jener Zins bei dem KW = 0
 Zins niedriger => KW steigt
 Zins höher => KW sinkt
+
+
+
+
+# 3. Vergaberecht
+
+Es geht um Steuergeld das in Beschaffungsverfahren eingesetzt wird. Daher muss gegen Korruption & Missbrauch vorgehen werden.
+Das Volumen beträgt in Österreich 60 Mrd. €
+
+Schwierigkeiten bei öffentlichen Vergaben:
+
+- keine Sanktionierung seitens Markt bei unwirtschaftlichen Verhalten
+- es werden Steuergelder eingesetzt
+
+Vergaberechtsrichtlinien sind EU-weit gültig
+
+- Wer ist ein öffentlicher Auftraggeber
+- Was ist ein öffentlicher AUftrag
+- Welche Regelungen müssen eingesetzt werden
+
+### Wieso?
+- Mitteleinsatz effizient
+- Bieter nicht benachteiligt/diskriminiert
+- Bieterkartelle verbieten 
+- Transparenz 
+  - öffentliche Ausschreibung
+  - Dokumentation
+  - Verfahren 
+  - Informationspflichten
+
+
+## Persönlicher Geltungsbereich
+- Was betrifft es?
+- Gelockert für Sektorenauftraggeber
+
+### Auftraggeber
+- öffentliche 
+  - klassische
+    - Bund, Länder, Gemeinden
+  - Einrichtungen öffentlichen Rechts 
+    - keine Gewinnabsicht
+    - besonderer Zweck
+    - öffentlich finanziert
+- sektoren 
+  - Betreiben Netze (ÖBB, ...)
+  - Verkehrsendeinrichtungen
+  - Energieversorger
+  - Öl & Gas-Förderer
+  - stehen im Vergleich zu öffentlichen Auftraggebern mehr im Wettbewerb
+
+
+## Sachlicher Geltungsbereich
+- Was betrifft es?
+- Was unterliegt dem BVergG
+
+
+## BVergG 2018
+- Umsetzung der EU-Vergaberechtsrichtlinie 2014 (sekundärrechtlich)
+- Unterliegen primär den EU-Grundsätzen & Grundfreiheiten
+  - keine Diskriminierung von anderen EU-Ländern 
+
+### Grundfreiheiten
+- Dienstleistungsverkehrsfreiheit
+- Warenverkehrsfreiheit
+- Personenverkehrsfreiheit
+- Kapitalverkehrsfreiheit
+
+### Auftragsarten
+- Bauaufträge
+- Dienstleistungsaufträge
+- Lieferaufträge
+
+#### Konzessionen
+Bei normalen Aufträgen wird ein Produkt/Leistung gegen Geld erworben.
+Konzessionen sind Aufträge bei denen der Anbieter/Konzessionär ein Nutzungsrecht behält.
+Konzessionär enthält Entgeld von Bürgern (direkt oder über Auftraggeber)
+
+Vorteile:
+
+- kein Budget für Auftraggeber
+- weniger Risiko bei Auftraggeber
+
+
+### Ausnahmen
+- Arbeitsverträge
+- Verteidigung & Sicherheit
+- Kredite & Darlehen
+- Inhouse-Beschaffungen
+
+### Schwellenwerte
+
+Klassisch
+- Bauaufträge = 5.350.000
+- Dienstleistungs- & Lieferaufträge = 214.000
+  - spezielle = 139.000
+
+Sektoren
+  - Bauaufträge = 5.350.000
+  - Dienstleistungs- & Lieferaufträge = 428.000
+    - spezielle = 1.000.000
+
+
+### Vorschriften 
+- EU-weite Ausschreibung bei OSB
+- Nachweis schätznung des Auftragswerts im OSB
+  - bei Lieferungen für ersten 48 Monate 
+- keine Aufteilung in kleinere Aufträge
+  - möglich ist eine Aufteilung in Lose => Losregelungen
+
+## Grundsätze der Vergabe
+- Grundfreiheiten einhalten
+- Gleichbehandlungsgebot
+  - Leistungsbeschreibung neutral 
+  - keine spezifischen Produkte
+- Transparenzgebot
+  - öffentlich Ausschreiben
+  - allen Chance geben
+  - Protokollieren (Öffnung/Zuschlag/...)
+- Freie, Faire, Lautere Wettbewerb
+  - Frei = alle haben Chance
+  - Fair = nichts unnötiges/spezifisches Ausschreiben => besondere Bieter nicht diskriminieren
+  - Laut = Auftragnehmer dürfen sich nicht absprechen & Preise erhöhen => 
+- Vorarbeitenproblematik
+  - wenn Auftraggeber und Bieter selbe Person sind
+  - Insiderinformationen könnten Vorteil bieten 
+- Interessenskonflikt
+  - wenn Entscheidungsträger von Erfolg eines Bieters profitiert
+  - nicht mehr unparteiisch
+- Vergabe an geeignete Unternehmen
+  - muss Befugnis haben
+  - Leistungsfähig
+  - muss Zuverlässig sein
+    - keine Insolvenz/Gerichtsverfahren
+    - ...
+- Vergabe zu angemessenen Preisen
+  - Guter Schätzer
+  - wenn Angebotspreise zu hoch => neu erfassen
+- Tatsächliche Absicht
+  - wenn man Ausschreibung macht muss diese zwangsläufig durchgeführt werden
+- Vertraulichkeit
+- Sekundärzwecke
+  - in gewissem Ausmaß andere Aspekte berücksichtigen 
+    - PESTLE
+
+
+## Ausschreibungsunterlage
+
+### Technische Spez
+- Leistungsbeschreibung
+  - eindeutig
+  - vollständig
+  - neutral
+  - funktional oder konstruktiv
+    - Features, Ergebnis = funktional 
+    - detailierte Leistungsbeschreibung und Ergbringung beschreiben = konstruktiv
+
+### Vertragliche Spez
+- Kosten
+- Bezahlung
+  - Wann
+  - Intervalle?
+- Abnahme
+- Fertigstellungen 
+- Sicherstellungen
+
+
+### KO-Kriterien
+- Eignungskriterien
+- Befugnis
+- Leistungsfähigkeit
+- Zuverlässigkeit
+
+### Zuschlagskriterien
+- Gereit & Gewichtet
+- Früh bekannt geben
+- nach Bekanntgabe nicht verändern
+- keine Überschneidung
+- Eindeutig/Klar
+
+### Alternativangebote
+- grundsätzlich Verboten
+- Vorschlag über Alternative erwünscht?
+- weicht signifikant von ursprünglicher Abschreibung ab
+- nur neben konformer Ausschreibung gültig
+
+### Abänderungsangebote
+- grundsätzlich zugelassen
+- anstelle ursprünglicher Ausschreibung
+- geringfüge technische Änderung
+
+### Variantenangebote 
+- können eingefordert werden
+- verschiedene Varianten anbieten lassen 
+
+### Subunternehmer
+- muss in Offert bekannt gemacht werden
+- Verfügung und Wirtschaftlichkeit muss klar gemacht werden
+
+### Fristen
+- Teilnahmefrist = Frist bis Interessenbekentniss
+- Angebotsfrist = Frist um Offerte einlegen zu dürfen
+- Zuschlafsfrist = Frist um Zuschlag zu entscheidung
+  - Stillhaltefrist = Nach Zuschlagsentscheidung
+- Zuschlagserteilung
+
+### Zuschlagsprinzip
+- Bestbieterprinzip
+- Billigstbieterprinzip
+  - meist wenn Gestaltungsspielraum gering ist
+
+### Preisverfahren
+- Preisangebots
+- Preisaufschlag/-nachlassverfahren
+
+### Preisarten
+- Einheitspreis
+  - genau Was 
+  - genau Wieviel
+- Pauschalpreis
+  - genau Was 
+  - unklar Wieviel
+- Regiepreis
+  - unklar Was 
+  - unklar Wieviel
+
+### Preisarten
+- Festpreise
+- Veränderliche Preise
+  - an Index gekoppelt
+
+### Sicherstellungen
+- Vadium = Betrag vom Offertsteller einfordern 
+  - bei Rücktritt während Zuschlagsfrist fällt Vadium an Auftraggeber
+- Kaution = wenn Vertrag gebrochen wird fällt Kaution an Vertragspartner
+- Deckungsrücklass = von Endrechnung Betrag einbehalten
+- Haftungsrücklass = von Endrechnung Betrag einbehalten
+
+## Angebot
+- Formvorschriften
+  - Bieterlücken
+  - Sprache
+- innerhalb Angebotsfrist abänderbar
+- keine Verfütung
+
+## Widerruf
+- fakultativ
+  - Preise liegen über geschätztem Auftragwert
+  - Überschreitung der Zuschlagsfrist
+- zwingend
+  - keine Angebote
+  - Fehler in Ausschreibung
+
+
+
+## Vergabeverfahren
+
+### Offene 
+- Einstufig = Kein Teilnahmewettbewerb
+- Angebotsfrist
+- Zuschlagsfrist
+- Öffnung
+  - Öffnung der Angebote ist öffentlich
+- Stillhaltefrist
+- Zuschlag
+
+### Nicht-Offene
+
+- Mit Bekanntmachung
+  - Teilnahmefrist = Eignungskriterien veröffentlichen
+    - OSB min 5 Bewerber, USB min 3 Bewerber
+  - Angebotsfrist mit Bewerbern 
+  - Öffnung
+  - Zuschlagsfrist
+  - Stillhaltefrist
+  - Zuschlag
+- Ohne Bekanntmachung (nur im USB)
+  - Wertgrenzen 
+    - Bau: 1.000.000€
+    - Liefer- & Dienstleistungen: 100.000€
+  - Angebotsfrist mit Bewerbern 
+    - min. 3 Bewerber einladen
+  - Öffnung
+  - Zuschlagsfrist
+  - Stillhaltefrist
+  - Zuschlag
+
+### Verhandlungsverfahren
+- über Auftragsinhalt kann Verhandelt werden
+- Verhandlungen getrennt
+- keine öffentliche Öffnung der Offerte 
+- Nach Verhandlung wird Ausschreibung finalisiert & Bieter müssen Letztofferte eintragen
+- bis 100.000 €
+
+- Mit Bekanntmachung
+  - min. 5 bzw. 3 Bieter
+- Ohne Bekanntmachung
+  - min. 3 Bieter
+
+### Direktvergabe
+- bis 100.000 €
+- Formfrei
+- kleine Aufträge rasch & unkompliziert
+
+- Mit Bekanntmachung
+  - Bau: 500.000 €
+  - Liefer- & Dienstleistungen: 130.000 €
+- Ohne Bekanntmachung
+  
+### Weiter Verfahren  
+
+#### Rahmenvereinbarung
+- Offenes Verfahren
+- Wiederholte Leistung erbringen (innerhlab 4 Jahre)
+- Separate Ausschreibungen vermeiden
+
+####  Dynamisches Beschaffungssystem
+- wie Rahmenvereinbarung
+- rein elektronisch
+- während Laufzeit auch neue zusätzliche Bieter möglich
+
+#### Innovationspartnerschaft
+#### Wettbewerblicher Dialog
+
+
+## Lostrennung/Losregelung
+- Aufträge in Lose aufteilen
+- Regelungen um Auftragssplitting vermeiden
+
+  
+
+
+
+# 4. Cloud-Computing
+
+Definition = Ressourcen werden über ein Netzwerk bereitgestellt, stehen unbegrenzt zur Verfügung, können schnell und von überall zugegriffen werden
+
+## Aufbau
+- Essential Characteristics
+  - Broad-Network-Access
+    - Glasfaser & Breitband Verbindung
+    - Bandbreitenverbrauch steigt exponentiell
+    - zunehmend mobile Geräte (Smartphones/Laptops/...)
+  - Ressource-Pooling
+    - Virtualisierung
+    - physische Server werden zu einem großen virtuellen Pool an Kapazitäten zusammengefasst
+    - Server-/Hardware-/Anwendungsvirtualisierung
+    - Multi-tennant models
+  - Rapid Elasticity
+    - durch virtualisierung können Ressourcen schnell und einfach erweitert werden
+    - Ressourcen basierend auf Auslastung
+  - Measured Service 
+    - es wird genau das bezahlt was auch genutzt wird
+  - On-Demand Self-Service
+    - Kunden erweitern/managen Services selbst
+- Service Models
+  - **SaaS** = Software as a Service
+    - Ganze Applikation liegt bei Provider
+    - Kunde nutzt nur Applikation
+  - **PaaS** = Platform as a Service
+    - Betriebssystem, Middleware, Runtimes, Datenbanksysteme liegen bei Provider
+    - Kunde beginnt ab Daten
+  - **IaaS** = Infrastructure as a Service
+    - Infrastruktur, Rechner, Speicher liegt bei Provider
+    - Kunde beginnt ab Virtualisierung
+- Deployment Models
+  - Public
+    - öffentlich 
+    - jeder kann sie Nutzen
+    - flexibel/skalierbar
+    - große Kapazitäten
+    - off-premise = außerhalb von Unternehmen
+
+  - Hybrid Cloud 
+    - Daten on-premise
+    - Apps off-premise
+
+  - Community Cloud
+    - private clouds zusammenschließen
+    - nur Partner zugänglich
+
+  - Private
+    - on-premise = nur innerhalb Unternehmen
+    - nur Mitarbeiter/Partner zugänglich
+    - eigene Service levels
+    - eigene Security/Privatsphäre
+    - keine Abhängigkeit
+
+
+## SWOT Cloud Computing
+
+### Strengths
+- Skalierbarkeit
+  - keine Kapazitätslücken
+- Performance
+- ...
+
+### Weaknesses
+- Abhängigkeit
+- Netzzugang notwendig
+
+### Opportunities
+- **Economies of Scale** = Provider hat große Kapazitäten und somit geringere Stückkosten
+- TCO ist kleiner
+- Sicherheit
+- Risikotransfer
+- Geringere Kosten 
+
+### Threats
+- Kompetenzverlust
+- Datenschutz
+
+
+## Total Cost of Ownership
+- wieviel der Betrieb von Cloud kostet
+- Beinhaltet Investitionskosten + Betriebskosten aber auch Schulungen, Lizenzen, Wartung, etc.
+- Viele Kosten bei Selbsterstellung sind nicht direkt ersichtlich
