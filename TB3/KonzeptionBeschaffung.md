@@ -11,13 +11,13 @@
   - ...
 - Applikationslandschaft altert
   - kein Support mehr
-  - keien Lizenzen
+  - keine Lizenzen
 - Wenn Firma sich verändert
   - Aufgabenbereiche auflösen/erweitern/erschließen
   - Outsourcing
   
 
-Beschaffungen sind langwierig  und werden meißt als Projekte realisiert
+Beschaffungen sind langwierig  und werden meist als Projekte realisiert
 
 
 ## Ablauf
@@ -46,7 +46,7 @@ Beschaffungen sind langwierig  und werden meißt als Projekte realisiert
 - **Pflichtenheft**
 
 ### Evaluation
-- Ausschreibung mit Pflichtenheft & Kritetirienkatalog 
+- Ausschreibung mit Pflichtenheft & Kriterienkatalog 
 - Angebote auswerten
   - Eignungskriterien (müssen erfüllt sein)
   - Zuschlagskriterien (dienen als Basis für Nutzwert)
@@ -67,12 +67,12 @@ Beschaffungen sind langwierig  und werden meißt als Projekte realisiert
 **Pflichtenheft** = Beschreibt den SOLL-Zustand. Kann teilweise auch technische Umsetzung enthalten
 
 ### Inhalt
-- Ausgangsituation
+- Ausgangssituation
   - Hintergründe
 - IST-Situation
 - Ziele/Erwartung
 - Anforderungen
-- Menegengerüst = Vorstellung von Daten-/Nutzer-/Performance-Umfang
+- Mengengerüst = Vorstellung von Daten-/Nutzer-/Performance-Umfang
 - Aufbau der Offerte vorgeben
 - Administratives = vertragliche Informationen
 
@@ -85,12 +85,12 @@ Beschaffungen sind langwierig  und werden meißt als Projekte realisiert
 - Hintergründe für Beschaffung
 
 ### IST-Zustand
-Detailierterer Blick 
-- Wo kommt Beschaffung zum einstatz
+- Detaillierterer Blick 
+- Wo kommt Beschaffung zum Einsatz
 - Welche Teile meiner (Aufbau-/Ablauf-)Organisation sind betroffen
   - GP
   - Schnittstellen
-  - Daten (inputs/outputs)
+  - Daten (Inputs/Outputs)
 - Eigenschaften des gewünschten Programms
   - Standards/Architekturrichtlinien
   - Benutzermenge
@@ -106,12 +106,13 @@ Ziele müssen konkret sein
 - Spezifisch
 - Messbar
 - Akzeptiert
-- Realisitisch 
-- Terminisiert
+- Realistisch 
+- Terminiert
 
 
 Ziele definiert man als Hierarchie
-1. Nutzenrelevante Ziele
+
+1. Nutzen relevante Ziele
    - für Freigabe von Projekt (daher sehr konkret)
    - Entscheidungsgrundlage für Top-Management
    - 4 Dimensionen
@@ -119,9 +120,9 @@ Ziele definiert man als Hierarchie
      - Performance
      - Qualität
      - Sozial 
-   - z.B.. Kosten sollen dort eingespart werden; Doppelte Durchsatzrate erzielen; MA Zufriedenheit steigern; ...
-2. System- & Vorgegensziele
-   - System = Funktionalen & Nicht-Funktionalen zielsetzungen
+   - z.B. Kosten sollen dort eingespart werden; doppelte Durchsatzrate erzielen; MA Zufriedenheit steigern; ...
+2. System- & Vorgehensziele
+   - System = Funktionalen & Nicht-Funktionalen Zielsetzungen
      - Features = **funktional**
      - Performance/Nebenläufigkeit/Belastung = **nicht-funktional**
    - Vorgehensziele
@@ -142,9 +143,9 @@ Arten von Anforderungen:
   - funktionale Leistungen
   - qualitative Eigenschaften
 - Infrastruktur 
-  - eher knapp sonst Einschränkung von Anbieter
+  - eher knapp, sonst Einschränkung von Anbieter
   - Standards/Technologien/Kompatibilität
-- Anbieterbezogen
+- Anbieter bezogen
   - Verlässlichkeit
     - Insolvenz? 
     - Kunden
@@ -180,7 +181,7 @@ Arten von Anforderungen:
 - Fristen
 - Vergabeplattformen (Inland/EU)
 - Bekanntgabe von Zuschlagskriterien
-- **NDA** = Non-Disclosure Agreement
+- **NDA** = Non Disclosure Agreement
 
 
 ## Kriterienkatalog
@@ -194,22 +195,24 @@ Hierarchie:
 - Auf einer Ebene max. 9 Gruppen
 - Tiefe von max. 15 Einzelkriterien
 - Gewichtung
-  - von üben nach unten NW mit jew. rel. Gewicht multiplizieren = ergibt NW von Einzelkriterien
+  - von üben nach unten NW, mit jeweiligem relativen Gewicht multiplizieren = ergibt NW von Einzelkriterien
 
 
 Bewertung von Kriterien
+
 - KO-Kriterien (müssen zu 100% erfüllt sein)
 - Skalen    
-  - Kardnial 
+  - Kardinal 
   - Nominal 
   - Ordinal
-- Einzelkriterien werden nach Erfüllung bewerter
+- Einzelkriterien werden nach Erfüllung bewertet
   - % der Erfüllung wird mit NW multipliziert 
   - ergibt max. Erfüllbaren NW
 
 Gewichtung ermitteln
-- Paarvergleichmethode
-  - jew. 2 Krit vergleichen
+
+- Paarvergleichsmethode
+  - jeweils 2 Kriterien vergleichen
   - (5, 5), (6, 4), (8, 2)
 
 |          | 1   | 2   | 3   | Punkte Absolut | Gewicht in % |
@@ -225,7 +228,7 @@ Gewichtung ermitteln
     - 1 - 2 = Unterm Durchschnitt
     - 3 = Durchschnitt
     - 5 - 9 = Überm Durchschnitt
-  - jew. Wert / Summe = Proz. Gewichtung
+  - jeweiliger Wert / Summe = Prozentuale Gewichtung
 
 
 ## Evaluation der Offerte
@@ -265,7 +268,7 @@ Vorgehen:
 - Offerte nach Kosten reihen
   - Alle die doppelt so teuer sind wie Billigstes rausschmeißen
   - Rel. Preispunkte zwischen Billigstem und Teuerstem für alle restlichen ermitteln
-  - Rel. Preispunkte mal max. Möglichen NW-Punkten berechnen
+  - Rel. Preispunkte mal max. möglichen NW-Punkten berechnen
     - Gewichtung von Kosten/Nutzwert kann 50P/50P sein oder anders (75P/25P)
 
 #### Kosten-Wirksamkeits-Analyse
@@ -292,7 +295,7 @@ Nachteil => Abstand in Reihung nicht gut darstellbar
 
 
 ## Evaluationsbericht
-- Enthät alle zuvor durchgeführten Dokumente
+- Enthält alle zuvor durchgeführten Dokumente
 - Zusammenfassung
 - Empfehlung
 - Darstellung als Spinnennetzdiagramm
@@ -300,7 +303,7 @@ Nachteil => Abstand in Reihung nicht gut darstellbar
 
 ## Entscheidung
 Entweder Projekt wird durchgeführt
-oder Projekt wird postponed
+oder Projekt wird aufgeschoben
 oder Projekt wird abgesagt
 
 
@@ -309,7 +312,7 @@ oder Projekt wird abgesagt
 
 - statische Verfahren
 - dynamische Verfahren
-  - gehen davon auss zukünftige Erträge unsicherer sind
+  - gehen davon aus zukünftige Erträge unsicherer sind
   - Kapitalwertmethode
 
 
@@ -319,8 +322,8 @@ Vorgehen (statisch)
 
 ### Kapitalwertmethode
 - $KW = Kosten + \sum_{i = 1}^{n} Erträge * (1 + x)^{-i}$
-- Kosten sind negativ (geld wird ausgegeben)
-- x ... Anzinsfaktor
+- Kosten sind negativ (Geld wird ausgegeben)
+- x ... Abzinsfaktor
 
 
 ### Annuität 
@@ -336,7 +339,7 @@ Zins höher => KW sinkt
 
 # 3. Vergaberecht
 
-Es geht um Steuergeld das in Beschaffungsverfahren eingesetzt wird. Daher muss gegen Korruption & Missbrauch vorgehen werden.
+Es geht um Steuergeld, das in Beschaffungsverfahren eingesetzt wird. Daher muss gegen Korruption & Missbrauch vorgehen werden.
 Das Volumen beträgt in Österreich 60 Mrd. €
 
 Schwierigkeiten bei öffentlichen Vergaben:
@@ -347,7 +350,7 @@ Schwierigkeiten bei öffentlichen Vergaben:
 Vergaberechtsrichtlinien sind EU-weit gültig
 
 - Wer ist ein öffentlicher Auftraggeber
-- Was ist ein öffentlicher AUftrag
+- Was ist ein öffentlicher Auftrag
 - Welche Regelungen müssen eingesetzt werden
 
 ### Wieso?
@@ -387,7 +390,7 @@ Vergaberechtsrichtlinien sind EU-weit gültig
 
 
 ## BVergG 2018
-- Umsetzung der EU-Vergaberechtsrichtlinie 2014 (sekundärrechtlich)
+- Umsetzung der EU-Vergaberechtsrichtlinie 2014 (sekundär rechtlich)
 - Unterliegen primär den EU-Grundsätzen & Grundfreiheiten
   - keine Diskriminierung von anderen EU-Ländern 
 
@@ -404,8 +407,8 @@ Vergaberechtsrichtlinien sind EU-weit gültig
 
 #### Konzessionen
 Bei normalen Aufträgen wird ein Produkt/Leistung gegen Geld erworben.
-Konzessionen sind Aufträge bei denen der Anbieter/Konzessionär ein Nutzungsrecht behält.
-Konzessionär enthält Entgeld von Bürgern (direkt oder über Auftraggeber)
+Konzessionen sind Aufträge, bei denen der Anbieter/Konzessionär ein Nutzungsrecht behält.
+Konzessionär enthält Entgelt von Bürgern (direkt oder über Auftraggeber)
 
 Vorteile:
 
@@ -422,19 +425,23 @@ Vorteile:
 ### Schwellenwerte
 
 Klassisch
-- Bauaufträge = 5.350.000
-- Dienstleistungs- & Lieferaufträge = 214.000
-  - spezielle = 139.000
+
+- Bauaufträge = 5.350.000 €
+- Dienstleistungs- & Lieferaufträge = 214.000 € 
+  - spezielle = 750.000 € 
 
 Sektoren
-  - Bauaufträge = 5.350.000
-  - Dienstleistungs- & Lieferaufträge = 428.000
-    - spezielle = 1.000.000
+
+  - Bauaufträge = 5.350.000 €
+  - Dienstleistungs- & Lieferaufträge = 428.000 €
+    - spezielle = 1.000.000 €
+
+Konzessionen = 5.350.000 €
 
 
 ### Vorschriften 
 - EU-weite Ausschreibung bei OSB
-- Nachweis schätznung des Auftragswerts im OSB
+- Nachweis Schätzung des Auftragswerts im OSB
   - bei Lieferungen für ersten 48 Monate 
 - keine Aufteilung in kleinere Aufträge
   - möglich ist eine Aufteilung in Lose => Losregelungen
@@ -477,16 +484,16 @@ Sektoren
 
 ## Ausschreibungsunterlage
 
-### Technische Spez
+### Technische Spezifikation
 - Leistungsbeschreibung
   - eindeutig
   - vollständig
   - neutral
   - funktional oder konstruktiv
     - Features, Ergebnis = funktional 
-    - detailierte Leistungsbeschreibung und Ergbringung beschreiben = konstruktiv
+    - detaillierte Leistungsbeschreibung und Erbringung beschreiben = konstruktiv
 
-### Vertragliche Spez
+### Vertragliche Spezifikation
 - Kosten
 - Bezahlung
   - Wann
@@ -503,7 +510,7 @@ Sektoren
 - Zuverlässigkeit
 
 ### Zuschlagskriterien
-- Gereit & Gewichtet
+- Gereiht & Gewichtet
 - Früh bekannt geben
 - nach Bekanntgabe nicht verändern
 - keine Überschneidung
@@ -518,7 +525,7 @@ Sektoren
 ### Abänderungsangebote
 - grundsätzlich zugelassen
 - anstelle ursprünglicher Ausschreibung
-- geringfüge technische Änderung
+- geringfügige technische Änderung
 
 ### Variantenangebote 
 - können eingefordert werden
@@ -526,13 +533,13 @@ Sektoren
 
 ### Subunternehmer
 - muss in Offert bekannt gemacht werden
-- Verfügung und Wirtschaftlichkeit muss klar gemacht werden
+- Verfügung und Wirtschaftlichkeit muss klargemacht werden
 
 ### Fristen
-- Teilnahmefrist = Frist bis Interessenbekentniss
+- Teilnahmefrist = Frist für Interessenbekenntnis
 - Angebotsfrist = Frist um Offerte einlegen zu dürfen
-- Zuschlafsfrist = Frist um Zuschlag zu entscheidung
-  - Stillhaltefrist = Nach Zuschlagsentscheidung
+- Zuschlagsfrist = Frist um Zuschlag zu Entscheidung
+  - Stillhaltefrist = Nach Zuschlagsentscheidung (möglicher Einspruch der Bieter)
 - Zuschlagserteilung
 
 ### Zuschlagsprinzip
@@ -547,15 +554,15 @@ Sektoren
 ### Preisarten
 - Einheitspreis
   - genau Was 
-  - genau Wieviel
+  - genau Wie viel
 - Pauschalpreis
   - genau Was 
-  - unklar Wieviel
+  - unklar Wie viel
 - Regiepreis
   - unklar Was 
-  - unklar Wieviel
+  - unklar Wie viel
 
-### Preisarten
+### Preisauswahl
 - Festpreise
 - Veränderliche Preise
   - an Index gekoppelt
@@ -563,7 +570,7 @@ Sektoren
 ### Sicherstellungen
 - Vadium = Betrag vom Offertsteller einfordern 
   - bei Rücktritt während Zuschlagsfrist fällt Vadium an Auftraggeber
-- Kaution = wenn Vertrag gebrochen wird fällt Kaution an Vertragspartner
+- Kaution = wenn Vertrag gebrochen wird, fällt Kaution an Vertragspartner
 - Deckungsrücklass = von Endrechnung Betrag einbehalten
 - Haftungsrücklass = von Endrechnung Betrag einbehalten
 
@@ -572,11 +579,12 @@ Sektoren
   - Bieterlücken
   - Sprache
 - innerhalb Angebotsfrist abänderbar
-- keine Verfütung
+- keine Vergütung
+- **Kongruenz** = hält sich an die Ausschreibungsunterlage
 
 ## Widerruf
 - fakultativ
-  - Preise liegen über geschätztem Auftragwert
+  - Preise liegen über geschätztem Auftragswert
   - Überschreitung der Zuschlagsfrist
 - zwingend
   - keine Angebote
@@ -599,7 +607,7 @@ Sektoren
 
 - Mit Bekanntmachung
   - Teilnahmefrist = Eignungskriterien veröffentlichen
-    - OSB min 5 Bewerber, USB min 3 Bewerber
+    - OSB min. 5 Bewerber, USB min. 3 Bewerber
   - Angebotsfrist mit Bewerbern 
   - Öffnung
   - Zuschlagsfrist
@@ -617,7 +625,7 @@ Sektoren
   - Zuschlag
 
 ### Verhandlungsverfahren
-- über Auftragsinhalt kann Verhandelt werden
+- über Auftragsinhalt kann verhandelt werden
 - Verhandlungen getrennt
 - keine öffentliche Öffnung der Offerte 
 - Nach Verhandlung wird Ausschreibung finalisiert & Bieter müssen Letztofferte eintragen
@@ -642,7 +650,7 @@ Sektoren
 
 #### Rahmenvereinbarung
 - Offenes Verfahren
-- Wiederholte Leistung erbringen (innerhlab 4 Jahre)
+- Wiederholte Leistung erbringen (innerhalb 4 Jahre)
 - Separate Ausschreibungen vermeiden
 
 ####  Dynamisches Beschaffungssystem
@@ -658,7 +666,27 @@ Sektoren
 - Aufträge in Lose aufteilen
 - Regelungen um Auftragssplitting vermeiden
 
+### USB
+
+Bauaufträge
+
+- Loswert < 1.000.000€ = nicht-offenes Verfahren ohne Bekanntmachung
+- Loswert < 500.000€ = Direktvergabe
   
+Liefer- & Dientstleistungsaufträge
+- Loswert < 50.000€  = Direktvergabe
+- Solange Summe der Kleinlose < 50% des Auftragswerts bleibt
+
+### OSB
+Bauaufträge
+
+- Kleinlose bis max 1.000.000€
+- Solange bis Summe der Kleinlose < 20% des Auftragswertes bleibt
+
+Liefer- & Dientstleistungsaufträge
+
+- Kleinlose bis max 80.000€
+- Solange bis Summe der Kleinlose < 20% des Auftragswertes bleibt
 
 
 
@@ -669,7 +697,7 @@ Definition = Ressourcen werden über ein Netzwerk bereitgestellt, stehen unbegre
 ## Aufbau
 - Essential Characteristics
   - Broad-Network-Access
-    - Glasfaser & Breitband Verbindung
+    - Glasfaser- & Breitband-Verbindung
     - Bandbreitenverbrauch steigt exponentiell
     - zunehmend mobile Geräte (Smartphones/Laptops/...)
   - Ressource-Pooling
@@ -678,10 +706,10 @@ Definition = Ressourcen werden über ein Netzwerk bereitgestellt, stehen unbegre
     - Server-/Hardware-/Anwendungsvirtualisierung
     - Multi-tennant models
   - Rapid Elasticity
-    - durch virtualisierung können Ressourcen schnell und einfach erweitert werden
+    - durch Virtualisierung können Ressourcen schnell und einfach erweitert werden
     - Ressourcen basierend auf Auslastung
   - Measured Service 
-    - es wird genau das bezahlt was auch genutzt wird
+    - es wird genau das bezahlt, was auch genutzt wird
   - On-Demand Self-Service
     - Kunden erweitern/managen Services selbst
 - Service Models
@@ -697,7 +725,7 @@ Definition = Ressourcen werden über ein Netzwerk bereitgestellt, stehen unbegre
 - Deployment Models
   - Public
     - öffentlich 
-    - jeder kann sie Nutzen
+    - jeder kann sie nutzen
     - flexibel/skalierbar
     - große Kapazitäten
     - off-premise = außerhalb von Unternehmen
@@ -707,13 +735,13 @@ Definition = Ressourcen werden über ein Netzwerk bereitgestellt, stehen unbegre
     - Apps off-premise
 
   - Community Cloud
-    - private clouds zusammenschließen
+    - private Clouds zusammenschließen
     - nur Partner zugänglich
 
   - Private
     - on-premise = nur innerhalb Unternehmen
     - nur Mitarbeiter/Partner zugänglich
-    - eigene Service levels
+    - eigene Service Levels
     - eigene Security/Privatsphäre
     - keine Abhängigkeit
 
@@ -743,6 +771,6 @@ Definition = Ressourcen werden über ein Netzwerk bereitgestellt, stehen unbegre
 
 
 ## Total Cost of Ownership
-- wieviel der Betrieb von Cloud kostet
-- Beinhaltet Investitionskosten + Betriebskosten aber auch Schulungen, Lizenzen, Wartung, etc.
+- wie viel der Betrieb von Cloud kostet
+- Beinhaltet Investitionskosten + Betriebskosten; aber auch Schulungen, Lizenzen, Wartung, etc.
 - Viele Kosten bei Selbsterstellung sind nicht direkt ersichtlich
