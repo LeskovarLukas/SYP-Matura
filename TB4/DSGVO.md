@@ -2,7 +2,7 @@
 
 # 1. Datenschutz
 
-Befasst sich mit dem Schutz natürlicher Personen bei der Verarbeitung ihrer Personenbezogener Daten.
+Befasst sich mit dem Schutz natürlicher Personen bei der Verarbeitung ihrer personenbezogenen Daten.
 
 Verarbeitung von Daten wird immer umfangreicher. Große Unternehmen werden mit der EU-DSGVO 2016 streng reglementiert.
 
@@ -11,7 +11,7 @@ Verarbeitung von Daten wird immer umfangreicher. Große Unternehmen werden mit d
 - Gilt seit 2018
 - 99 Artikel
 - 173 Erwägungsgründe
-  - erklären warum DSGVO wichtig ist
+  - erklären, warum DSGVO wichtig ist
 - 83 Öffnungsklauseln
   - geben Mindeststandards und Regelungen vor
   - fakultativ = können ausformuliert werden
@@ -25,9 +25,9 @@ Verarbeitung von Daten wird immer umfangreicher. Große Unternehmen werden mit d
 ### Personenbezogene Daten
 ... Daten die sich eindeutig auf eine natürliche Person beziehen oder diese identifizieren können (auch in einem bestimmten Kontext) z.B.: SV-Nummer, Fingerabdruck, Cookies, IP-Adresse
 
-Für alle diese Daten gilt eine Sorgaltspflicht
+Für alle diese Daten gilt eine Sorgfaltspflicht
 
-Wenn Daten (pseudo-)anonymisiert wurden gilt DSGVO nicht
+Wenn Daten (pseudo-)anonymisiert wurden, gilt DSGVO nicht
 
 ### Verarbeitung
 Manuelle oder (Teil-)automatisierte Bearbeitung von Daten in einem Dateisystem
@@ -47,14 +47,14 @@ Strukturierte Speicherung von personenbezogenen Daten
 
 ## Räumlicher Geltungsbereich
 DSGVO gilt für
-- Unternehmen die in der EU niedergelassen sind
-- Unternehmen (aus Drittstaaten) die mit Daten von EU-Bürgern arbeiten
+- Unternehmen, die in der EU niedergelassen sind
+- Unternehmen (aus Drittstaaten), die mit Daten von EU-Bürgern arbeiten
 - Unternehmen aus Drittsaaten ohne Niederlassung benötigen 
   
 
 
 ## Verantwortlicher
-Jene Person die die Daten erhebt und über Zwecke und Mittel der Verarbeitung verfügt. Muss eine rechtliche Grundlage für Verarbeitung nennen
+Jene Person die Daten erhebt und über Zwecke und Mittel der Verarbeitung verfügt. Muss eine rechtliche Grundlage für Verarbeitung nennen
 
 ## Auftragsverarbeiter 
 Kann im Namen des Verantwortlichen den technischen Aspekt der Verarbeitung übernimmt.
@@ -76,43 +76,43 @@ Kann im Namen des Verantwortlichen den technischen Aspekt der Verarbeitung über
 
 2. Zweckbindung
    - muss an bestimmten Zweck gebunden sein
-   - wenn Zweck entfällt muss erneut Enwilligung erhoben werden
+   - wenn Zweck entfällt, muss erneut Einwilligung erhoben werden
 3. Datenminimierung
    - nur notwendige Daten erheben
 4. Richtigkeit
    - Daten müssen jederzeit richtig und aktuell sein
 5. Speicherbegrenzung
-   - Daten dürfen nur so lange gespeichert werden wie notwendig
+   - Daten dürfen nur so lange gespeichert werden, wie notwendig
 
 
 ## Einwilligung
 - muss freiwillig sein 
 - jederzeit widerrufbar
 - einfach und klar formuliert
-- muss sich auf kontrete Verarbeitung beziehen
+- muss sich auf konkrete Verarbeitung beziehen
 
 
 ## Besondere Kategorien von Daten
-... dürfen Grundsätzlich garnicht erhoben werden, außer bei bestimten Ausnahmen.
+... dürfen grundsätzlich gar nicht erhoben werden, außer bei bestimmten Ausnahmen.
 
 - Biometrische Daten
 - politische Meinungen
 - sexuelle Orientierung
-- Etnische Herkunft
+- Ethnische Herkunft
 - Gesundheitsdaten
 
 
 ## Rechte von Betroffenen
 - Auskunft
   - Verarbeiter muss auf Anfrage umgehend (1 Monat) antworten
-  - Sanktionierung bist 20.000.000 € oder 4% des Umsatzes
+  - Sanktionierung bis 20.000.000 € oder 4 % des Umsatzes
   - welche Daten
   - welcher Zweck
   - wie lange (Löschungsfristen)
-  - so ziemlich alles was im Verarbeitungsverzeichnis steht
+  - so ziemlich, alles was im Verarbeitungsverzeichnis steht
 - Berichtigung
 - Löschung
-  - immer dann wenn Daten unrechtmäßig verarbeitet werden
+  - immer dann, wenn Daten unrechtmäßig verarbeitet werden
 - Einschränkung der Verarbeitung
   - Umfang der Verarbeitung einschränken
   - keine weiterführende Verarbeitung zulassen
@@ -123,27 +123,27 @@ Kann im Namen des Verantwortlichen den technischen Aspekt der Verarbeitung über
   - z.B. bei Direktwerbung sofort
 
 
-## Pflichten Verantwortlicher & Auftragverarbeiter
+## Pflichten Verantwortlicher & Auftragsverarbeiter
 - Betroffenenrechte erfüllen 
 - Verarbeitungsverzeichnis führen
-- Techn. & Org. Maßnahmen durchführen
+- Technische & organisatorische Maßnahmen durchführen
 - Datenschutzverletzungen melden
 - DS-Risikoeinschätzungen durchführen
 - DS-Bauftragten bestellen
-- Mit DSB zusammenarbeitun
+- Mit DSB zusammenarbeiten
 
 
 ## Verarbeitungsverzeichnis
 - jede Verarbeitung auflisten
   - Zweck
   - Betroffenenkategorie
-  - Technische & Organisatorische Datensicherheitsmaßnahmen
+  - Technische & organisatorische Datensicherheitsmaßnahmen
   - Kategorien an Daten 
   - Übermittlung (an Dritte? an Nicht-EU-Staaten?)
   - Löschungsfristen 
 
 
-## Technische & Organisatoriache Maßnahmen
+## Technische & organisatorische Maßnahmen
 
 Informationssicherheitsziele einhalten
 
@@ -154,25 +154,25 @@ Maßnahmen müssen
 - dokumentiert sein (im Verarbeitungsverzeichnis)
 
 ### Privacy by Design
-Bei Systementwurf-, Konzeption & Entwicklung Hauptaugenmerk auf Datensicherheit gelegt wurde. 
+Bei Systementwurf, Konzeption & Entwicklung Hauptaugenmerk auf Datensicherheit gelegt wurde. 
 
 - Datenminimierung
 - Anonymisierung
 - Pseudoanonymisierung
 
 ### Privacy by Default
-Voreinstellungen der Plattform erheben nur so viele Daten wie mindest notwendig. Zusätzliche Datenerhebung muss von Betroffenen explizit zugestimmt werden
+Voreinstellungen der Plattform erheben nur so viele Daten, wie mindest notwendig. Zusätzliche Datenerhebung muss von Betroffenen explizit zugestimmt werden
 
 
 ## Datenschutzverletzungen
 - Meldepflichtig wenn
-  - phyisischer, materieller oder immaterieller Schaden erfolgt ist
+  - physischer, materieller oder immaterieller Schaden erfolgt ist
   - dieser Schaden ein hohes Risiko für Betroffene darstellt
 
-Datenschutzverletzungen liegen von wenn:
+Datenschutzverletzungen liegen von, wenn:
 
   - Verlust von Kontrolle über Daten
-  - Identitätsdiebstahlt
+  - Identitätsdiebstahl
   - Verlust der Rechte
   - finanzielle Verluste
   - Verlust der Vertraulichkeit
@@ -192,7 +192,7 @@ Datenschutzverletzungen liegen von wenn:
 
 
 ## Datenschutzfolgeabschätzung
-- DSB gibt Black & Whitelist vor die bestimmen welche Verarbeitungen keine DSFA benötigen
+- DSB gibt Black & Whitelist vor, die bestimmen, welche Verarbeitungen keine DSFA benötigen
 - zwingend bei
   - systematische Bewertung persönlicher Aspekte von Betroffenen (Profiling)
   - umfangreiche Verarbeitung von sensiblen Daten
@@ -218,12 +218,12 @@ Datenschutzverletzungen liegen von wenn:
 
 ## Zertifizierungen
 - European Privacy Seal 
-  - 2 Jährige Rezertifizierung
+  - 2-jährige Rezertifizierung
 - Interessenvertretungen können Codes of Conduct vorgeben 
 
 
 ## Datenübermittlung ans Ausland
-immer wenn Daten ins EU-Ausland übermittelt werden müssen EU-Bestimmungen eingehalten werden. Es kann mehrere Sicherstellungen geben:
+immer, wenn Daten ins EU-Ausland übermittelt werden, müssen EU-Bestimmungen eingehalten werden. Es kann mehrere Sicherstellungen geben:
 
 ### Angemessenheitsbeschlüsse
 - werden von der EU-Kommission erteilt
@@ -231,7 +231,7 @@ immer wenn Daten ins EU-Ausland übermittelt werden müssen EU-Bestimmungen eing
 - z.B. UK, Japan, Uruguay, Kanada
 
 ### Safe-Harbor Abkommen & US-EU-Privacy-Shield
-- sind Abkommen für denn Datenaustausch mit den USA
+- sind Abkommen für den Datenaustausch mit den USA
 - mittlerweile nicht mehr gültig
 - das EU-US-Privacy-Shield ist seit 2020 nicht mehr gültig
 
@@ -239,17 +239,17 @@ immer wenn Daten ins EU-Ausland übermittelt werden müssen EU-Bestimmungen eing
 wenn ein Drittstaat keine Angemessenheitsbeschlüssen
 
 - Binding Coorporate Rules
-  - einmal von DSB genemigt
+  - einmal von DSB genehmigt
 - Standarddatenschutzklauseln
   - Verantwortliche
   - Auftragsverarbeiter
-- genehmigt Veraltensregeln (Codes of Conduct)
+- genehmigt Verhaltensregeln (Codes of Conduct)
 - sonst
   - separates Vertragswerk und im Einzelfall genehmigen lassen
 
 
 ## DSB - Datenschutzbehörde
-- öffentlichkeit Informieren
+- Öffentlichkeit Informieren
 - Anlaufstelle
 - Hilfestellung 
 - Vorgaben erstellen (Black/White-List)
@@ -281,7 +281,7 @@ wenn ein Drittstaat keine Angemessenheitsbeschlüssen
 ## Gründe 
 - Wettbewerbsvorteil
 - Compliance
-  - Gesetze und Regelungen erfüllen (z.B. DSGVO, Telekommunikationsgesetzt, e-Privacy Richtlinie)
+  - Gesetze und Regelungen erfüllen (z.B. DSGVO, Telekommunikationsgesetz, e-Privacy Richtlinie)
 
 
 ## Schutzziele nach ISO 27001
@@ -306,7 +306,7 @@ wenn ein Drittstaat keine Angemessenheitsbeschlüssen
   - wenn Funktion aufgerufen wird immer gleich Ergebnisse
   - kein unvorhergesehenes Verhalten
 - Verbindlichkeit
-  - Genau festellen wer was gemacht hat
+  - Genau feststellen wer was gemacht hat
   - geschützte Protokollierung
 - Zurechenbarkeit
   - Ereignisse/Aktionen sind eindeutig einer Person zurechenbar
@@ -321,13 +321,14 @@ wenn ein Drittstaat keine Angemessenheitsbeschlüssen
 - ...
 
 
+
 # 3. BSI-IT Grundschutz
-Definiert wie man Informationssicherheit schrittweise in einem Unternehmen einführen, entwickeln, implementieren kann.
+Definiert, wie man Informationssicherheit schrittweise in einem Unternehmen einführen, entwickeln, implementieren kann.
 
 ISO 27000 kann weiterführend umgesetzt werden
 
 ## 4 Standards
-- Managementysteme
+- Managementsysteme
 - Vorgehensweise
 - Risikoanalyse
 - Notfallmanagement
@@ -340,10 +341,10 @@ ISO 27000 kann weiterführend umgesetzt werden
 - normaler Schutzbedarf = Standard-Absicherung
   - erst wenn Grundschutz schon implementiert wurde 
   - auch weniger wichtige Aspekte der IT absichern 
-  - keine besondere Abgrenzung von zu schützenwerten Assets
+  - keine besondere Abgrenzung von zu schützenswerten Assets
 - erhöhter Schutzbedarf = Kern-Absicherung
   - ganz am Anfang
-  - nur für einzelne besonders zu Schützende Elemente der IT
+  - nur für, einzelne besonders zu schützende Elemente der IT
 
 ## Umsetzung
 - Verfolgt einen ganzheitlichen Ansatz der Prozesse, Systeme, Personal, Ressourcen, ... umfasst
@@ -364,7 +365,7 @@ ISO 27000 kann weiterführend umgesetzt werden
 - Umsetzung der Sicherheitskonzeption
 - Aufrechterhaltung und Verbesserung 
 
-### Inittierung
+### Initiierung
 - Führung überzeugen
 - Ressourcen freigeben
 - Verantwortung übernehmen 
@@ -392,16 +393,16 @@ ISO 27000 kann weiterführend umgesetzt werden
 2. Schutzbedarfsfeststellung
    - welchen Schutzbedarf haben einzelne Bestandteile meines Systems
    - Arten
-     - normal = Standardabsicherung
+     - normal = Standard-Absicherung
        - bis 50.000 €
-     - hoch = Standardabsicherung + Risikoanalyse
+     - hoch = Standard-Absicherung + Risikoanalyse
        - bis 500.000 € 
      - sehr hoch 
        - über 500.000 €
    - Prinzipien 
-     - Maximumprinzip = Server hat mindestens den Schutzbedarf seiner wichtigsten Anwendung 
-     - Kumulationsprinzip = Server hat höheren Schutzbedarf als seine Anwendungn da gesamter Ausfall schlimmer wäre 
-     - Verteilungseffekt = durch redundante Ausführung des Servers kann Schutzbedarf veringert werden
+     - Maximalprinzip = Server hat mindestens den Schutzbedarf seiner wichtigsten Anwendung 
+     - Kumulationsprinzip = Server hat höheren Schutzbedarf als seine, Anwendung, da gesamter Ausfall schlimmer wäre 
+     - Verteilungseffekt = durch redundante Ausführung des Servers kann Schutzbedarf verringert werden
    - Sicherheitszonen
      - Räumlich
      - Technisch
@@ -414,12 +415,12 @@ ISO 27000 kann weiterführend umgesetzt werden
    - SOLL-IST-Vergleich
 5. Risikoanalyse
    - implizit 
-     - bei Standardabsicherung durchgeführt
+     - bei Standard-Absicherung durchgeführt
      - bei Bausteinen inkludiert
    - explizit
      - bei hohem, sehr hohen Schutzbedarf
      - weitere Bedrohungen identifizieren und analysieren
-     - Entrittswahrscheinlichkeit
+     - Eintrittswahrscheinlichkeit
      - Schadensausmaß
      - Maßnahmen gegen Bedrohung
 
@@ -451,7 +452,7 @@ ISO 27000 kann weiterführend umgesetzt werden
 - ...
 
 ## Grundschutzkompendium
-Enthält wichtige Elemente eine IT-Systems, abgebildet als Bausteine
+Enthält wichtige Elemente eines IT-Systems, abgebildet als Bausteine
 
 ### Bausteine
 Beschreibt eine bestimmte Komponente eines IT-Systems
@@ -466,7 +467,7 @@ Struktur:
 - Ziele
 - Abgrenzung
 - Gefährdungen
-- Andorderungen
+- Anforderungen
 - Reihenfolge
 - ...
 
@@ -477,13 +478,13 @@ Struktur:
   - wie verhalten 
   - Szenario was im Normalbetrieb nicht bewältigt werden kann
 - Business Impact 
-  - Aufallszeiten 
+  - Ausfallzeiten 
   - Recovery Time Objective
   - Recovery Point Objective
 - Notfallhandbuch
   - Leitlinie für Notfall
   - Verantwortung
-  - Kompetenzene
+  - Kompetenzen
   - Kommunikation
   - Reihenfolge
 
@@ -491,17 +492,17 @@ Struktur:
 
 # 4. BigData
 
-erhöhte Datenmengen und Verarbeitungsgeschwindigkeiten sodass klassische relationale Datenbanksysteme nicht mehr ausreichen
+erhöhte Datenmengen und Verarbeitungsgeschwindigkeiten, sodass klassische relationale Datenbanksysteme nicht mehr ausreichen
 
 Datenmenge verdoppelt sich alle 2 Jahre
 
 Daten liegen immer mehr unstrukturiert vor
 
-Daten haben immer mehr betriebwirtschaftlichen Wert
+Daten haben immer mehr betriebswirtschaftlichen Wert
 
 ## Einsatzfelder
 - Marketing
-- Business Inteligence
+- Business Intelligente
 - Finanzprüfung (Fraud-Detection)
 - Medizin
 - ...
@@ -513,18 +514,18 @@ Daten haben immer mehr betriebwirtschaftlichen Wert
 - Velocity
   - immer mehr Echtzeitberechnung
   - weniger Batch-Betrieb
-  - Smartphones, Autosm ...
+  - Smartphones, Autos ...
 - Variety
   - Daten liegen in immer unterschiedlicherer Form vor
 - (Value)
-  - Daten haben einen immer mehr betriebwirtschaftlichen Wert
+  - Daten haben einen immer mehr betriebswirtschaftlichen Wert
 - (Veracity)
   - Daten sind immer mehr strukturiert
 
 ## Daten
-### Stukturiert
+### Strukturiert
 Daten die in relationalen DB gespeichert werden.
-Bei BigData kann es unter der Verwendung von herkömlichen DBMS zu hohen Lizenzkosten kommen. Viele BigData-Systeme sind open-source.
+Bei BigData kann es unter der Verwendung von herkömmlichen DBMS zu hohen Lizenzkosten kommen. Viele BigData-Systeme sind Open-Source.
 
 ### Unstrukturierte Daten
 können nicht konventionell gespeichert werden
@@ -570,7 +571,7 @@ Wenn Daten geschrieben werden, werden diese automatisch repliziert.
 
 
 ## Map-Reduce
-Aufbearbeitung auf mehrere Knoten verteilen
+Aufbereitung auf mehrere Knoten verteilen
 
 ### Phasen
 - Map (Parallel)
@@ -588,8 +589,8 @@ Aufbearbeitung auf mehrere Knoten verteilen
 Ein verteiltes DBMS nicht alle drei Garantien erfüllen kann
 - Consistency 
   - Daten werden sind trotz Mehrbenutzerbetrieb konsistent
-  - Transactions überführen System von einem konsistenten Zustand zu einem anderem konsistenten Zustand
-  - Jeder sieht die selben Daten
+  - Transactions überführen System von einem konsistenten Zustand zu einem anderen konsistenten Zustand
+  - Jeder sieht dieselben Daten
 - Availability
   - Daten sind trotz Mehrbenutzerbetrieb immer verfügbar
   - Jeder kann lesen und schreiben
@@ -603,7 +604,7 @@ Ein verteiltes DBMS nicht alle drei Garantien erfüllen kann
 - Atomicity
   - Transaktionen sind atomar
 - Consistency
-  - Transaktionen überführen System von einem konsistenten Zustand zu einem anderem konsistenten Zustand
+  - Transaktionen überführen System von einem konsistenten Zustand zu einem anderen konsistenten Zustand
 - Isolation
   - Transaktionen sind isoliert und beeinflussen einander nicht
 - Durability
